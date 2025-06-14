@@ -13,7 +13,7 @@ dependencyResolutionManagement {
         mavenCentral()
         maven("https://api.xposed.info/")
         jcenter()
-        maven ("https://maven.pkg.github.com/GCX-HCI/tray" )
+        maven ("https://jitpack.io" )
     }
 }
 
